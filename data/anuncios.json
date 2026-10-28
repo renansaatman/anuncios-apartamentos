@@ -1,0 +1,305 @@
+{
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS838/id-47228691/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS838/id-47228691/",
+  "titulo": "2 quartos (1 suíte), varanda integrada, Av. Nascimento de Castro, 1645",
+  "bairro": "Lagoa Nova",
+  "aluguel": 838,
+  "condominio": 1243,
+  "iptu": 218,
+  "area": 75,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 1,
+  "andar": "baixo (nº a confirmar)",
+  "imobiliaria": "Gorett Imobiliária",
+  "varanda": 1,
+  "p24": 0,
+  "vent": 1,
+  "mob": 0,
+  "atual": "2026-10-21",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "iptu_est": 0,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS838/id-47228691/",
+  "custo_total": 2299,
+  "ppm2": 30.653333333333332,
+  "nota": 25,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 2299
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/",
+  "titulo": "2 dormitórios, 80 m², 2 vagas (valor com cond. e IPTU incluso)",
+  "bairro": "Candelária",
+  "aluguel": 1700,
+  "condominio": 0,
+  "iptu": 0,
+  "area": 80,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 2,
+  "andar": null,
+  "imobiliaria": "Peres e Peres Imóveis",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-23",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "iptu_est": 0,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/",
+  "custo_total": 1700,
+  "ppm2": 21.25,
+  "nota": 38,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1700
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
+  "titulo": "2 quartos, 75 m², varanda, portaria 24h, Candelária",
+  "bairro": "Candelária",
+  "aluguel": 1300,
+  "condominio": 565,
+  "iptu": 100,
+  "area": 75,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Expansão Imóveis",
+  "varanda": 1,
+  "p24": 1,
+  "vent": 1,
+  "mob": 0,
+  "atual": "2026-10-15",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado)"
+  ],
+  "iptu_est": 1,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
+  "custo_total": 1965,
+  "ppm2": 26.2,
+  "nota": 37,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado)"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1965
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
+  "titulo": "3 quartos (1 suíte), 95 m², atrás do Carrefour",
+  "bairro": "Candelária",
+  "aluguel": 1500,
+  "condominio": 390,
+  "iptu": 100,
+  "area": 95,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Expansão Imóveis",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-23",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado)"
+  ],
+  "iptu_est": 1,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
+  "custo_total": 1990,
+  "ppm2": 20.94736842105263,
+  "nota": 25,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado)"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1990
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/",
+  "titulo": "3 quartos (1 suíte), Av. Ayrton Senna, 1823",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1350,
+  "condominio": 300,
+  "iptu": 67,
+  "area": 58,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Habitacional Imobiliária",
+  "varanda": 0,
+  "p24": 1,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-09-15",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "iptu_est": 0,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/",
+  "custo_total": 1717,
+  "ppm2": 29.603448275862068,
+  "nota": 18,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1717
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/",
+  "titulo": "2 quartos, 65 m², Cond. Serrambi 5, R. Adail Pamplona de Menezes, 91",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1100,
+  "condominio": 0,
+  "iptu": 80,
+  "area": 65,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "3º (apto 401)",
+  "imobiliaria": "SB Escritório Imobiliário",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-09-17",
+  "conf": [
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado; título cita R$ 1.200)"
+  ],
+  "iptu_est": 1,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/",
+  "custo_total": 1180,
+  "ppm2": 18.153846153846153,
+  "nota": 48,
+  "flags": [
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado; título cita R$ 1.200)"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1180
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/",
+  "titulo": "3 quartos (1 suíte), 74 m², Cond. Trás os Montes, R. Gandhi, 1546",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1800,
+  "condominio": 0,
+  "iptu": 0,
+  "area": 74,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "3º",
+  "imobiliaria": "Paiva & Fernandes Negócios Imobiliários",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-10",
+  "conf": [
+   "elevador a confirmar"
+  ],
+  "iptu_est": 0,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/",
+  "custo_total": 1800,
+  "ppm2": 24.324324324324323,
+  "nota": 25,
+  "flags": [
+   "elevador a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-28",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1800
+   }
+  ]
+ }
+}
