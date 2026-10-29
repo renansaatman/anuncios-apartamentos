@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -77,7 +77,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -167,7 +167,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -210,7 +210,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -253,7 +253,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -294,12 +294,104 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-28",
+  "ultimo_visto": "2026-10-29",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1800
    }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-rn-parnamirim-nova-parnamirim-85m2-RS1400/id-44183103/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-rn-parnamirim-nova-parnamirim-85m2-RS1400/id-44183103/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-rn-parnamirim-nova-parnamirim-85m2-RS1400/id-44183103/",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-29",
+  "varanda": 1,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "iptu_est": 1,
+  "andar": null,
+  "titulo": "3 quartos, 85 m², varanda – Cond. Therra Dourada, Rua Petra Kelly, 1038",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1400,
+  "condominio": 350,
+  "iptu": 100,
+  "area": 85,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": null,
+  "imobiliaria": "TR Imóveis",
+  "atual": "2026-10-15",
+  "custo_total": 1850,
+  "nota": 34,
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "vaga a confirmar",
+   "custo total a confirmar"
+  ],
+  "historico_precos": [
+   {
+    "data": "2026-10-29",
+    "custo_total": 1850
+   }
+  ],
+  "ppm2": 21.764705882352942,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "vaga a confirmar",
+   "custo total a confirmar"
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS1400/id-48129190/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS1400/id-48129190/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS1400/id-48129190/",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-29",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 1,
+  "iptu_est": 1,
+  "andar": null,
+  "titulo": "2 quartos (1 suíte), semimobiliado – Rua das Algarobas, 1661",
+  "bairro": "Pitimbu",
+  "aluguel": 1400,
+  "condominio": 350,
+  "iptu": 80,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "imobiliaria": "Intelecto Assessoria Imobiliária",
+  "atual": "2026-10-26",
+  "custo_total": 1830,
+  "nota": 19,
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar"
+  ],
+  "historico_precos": [
+   {
+    "data": "2026-10-29",
+    "custo_total": 1830
+   }
+  ],
+  "ppm2": 33.27272727272727,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar"
   ]
  }
 }
