@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -77,7 +77,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -134,8 +134,8 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
   "titulo": "3 quartos (1 suíte), 95 m², atrás do Carrefour",
   "bairro": "Candelária",
-  "aluguel": 1500,
-  "condominio": 390,
+  "aluguel": 1400,
+  "condominio": 400,
   "iptu": 100,
   "area": 95,
   "quartos": 3,
@@ -155,9 +155,9 @@
   ],
   "iptu_est": 1,
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
-  "custo_total": 1990,
+  "custo_total": 1900,
   "ppm2": 20.94736842105263,
-  "nota": 25,
+  "nota": 26,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -167,11 +167,15 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1990
+   },
+   {
+    "data": "2026-10-30",
+    "custo_total": 1900
    }
   ]
  },
@@ -210,7 +214,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -253,7 +257,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -294,7 +298,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -309,7 +313,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-30",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -392,6 +396,49 @@
    "andar a confirmar",
    "elevador a confirmar",
    "custo total a confirmar"
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/",
+  "titulo": "2 quartos (1 suíte), varanda integrada, depósito extra (AP0784), Av. Nascimento de Castro, 1645",
+  "bairro": "Lagoa Nova",
+  "aluguel": 836,
+  "condominio": 1243,
+  "iptu": 220,
+  "area": 75,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Gorett Imobiliária",
+  "varanda": 1,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-16",
+  "conf": [
+   "andar a confirmar",
+   "custo total a confirmar"
+  ],
+  "iptu_est": 0,
+  "custo_total": 2299,
+  "ppm2": 30.65,
+  "nota": 12,
+  "flags": [
+   "andar a confirmar",
+   "custo total a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-30",
+  "historico_precos": [
+   {
+    "data": "2026-10-30",
+    "custo_total": 2299
+   }
   ]
  }
 }

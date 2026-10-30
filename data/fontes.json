@@ -1,3 +1,14 @@
 {
- "chavesnamao": "https://www.chavesnamao.com.br/apartamentos-para-alugar/rn-natal/"
+ "chavesnamao": "https://www.chavesnamao.com.br/apartamentos-para-alugar/rn-natal/",
+ "chavesnamao_bairros": [
+  "lagoa-nova",
+  "candelaria",
+  "capim-macio",
+  "pitimbu",
+  "parnamirim/nova-parnamirim"
+ ],
+ "portais_bloqueados_403": [
+  "zapimoveis",
+  "vivareal"
+ ]
 }
