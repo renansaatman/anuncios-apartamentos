@@ -8,7 +8,10 @@
   "parnamirim/nova-parnamirim"
  ],
  "portais_bloqueados_403": [
-  "zapimoveis",
-  "vivareal"
+  "vivareal",
+  "zapimoveis"
+ ],
+ "portais_sem_resultado": [
+  "quintoandar"
  ]
 }

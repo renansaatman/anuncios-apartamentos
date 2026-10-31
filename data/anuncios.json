@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -77,7 +77,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -167,7 +167,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -214,7 +214,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -257,7 +257,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -298,7 +298,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -313,7 +313,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -360,7 +360,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-10-29",
+  "ultimo_visto": "2026-10-31",
   "varanda": 0,
   "p24": 0,
   "vent": 0,
@@ -433,11 +433,87 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-30",
-  "ultimo_visto": "2026-10-30",
+  "ultimo_visto": "2026-10-31",
   "historico_precos": [
    {
     "data": "2026-10-30",
     "custo_total": 2299
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/": {
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
+  "titulo": "Apartamento 2 dormitórios, Capim Macio",
+  "bairro": "Capim Macio",
+  "aluguel": 1400,
+  "condominio": 450,
+  "iptu": 100,
+  "area": 65,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": null,
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond. e IPTU estimados)",
+   "anunciante a confirmar"
+  ],
+  "nota": 40,
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
+  "custo_total": 1950,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond. e IPTU estimados)",
+   "anunciante a confirmar"
+  ],
+  "primeiro_visto": "2026-10-31",
+  "ultimo_visto": "2026-10-31",
+  "historico_precos": [
+   {
+    "data": "2026-10-31",
+    "custo_total": 1950
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/": {
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/",
+  "titulo": "Apartamento 2 quartos, Pitimbu",
+  "bairro": "Pitimbu",
+  "aluguel": 900,
+  "condominio": 400,
+  "iptu": 100,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": null,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": null,
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "banheiros a confirmar",
+   "custo total a confirmar (IPTU estimado)",
+   "anunciante a confirmar"
+  ],
+  "nota": 33,
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/",
+  "custo_total": 1400,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "banheiros a confirmar",
+   "custo total a confirmar (IPTU estimado)",
+   "anunciante a confirmar"
+  ],
+  "primeiro_visto": "2026-10-31",
+  "ultimo_visto": "2026-10-31",
+  "historico_precos": [
+   {
+    "data": "2026-10-31",
+    "custo_total": 1400
    }
   ]
  }
