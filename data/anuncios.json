@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -77,7 +77,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -89,7 +89,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
   "titulo": "2 quartos, 75 m², varanda, portaria 24h, Candelária",
   "bairro": "Candelária",
-  "aluguel": 1300,
+  "aluguel": 1200,
   "condominio": 565,
   "iptu": 100,
   "area": 75,
@@ -110,9 +110,9 @@
   ],
   "iptu_est": 1,
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
-  "custo_total": 1965,
+  "custo_total": 1865,
   "ppm2": 26.2,
-  "nota": 37,
+  "nota": 39,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -122,11 +122,15 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1965
+   },
+   {
+    "data": "2026-11-01",
+    "custo_total": 1865
    }
   ]
  },
@@ -167,7 +171,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -214,7 +218,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -257,7 +261,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -298,7 +302,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -313,7 +317,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -470,7 +474,7 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-31",
@@ -509,11 +513,49 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-01",
   "historico_precos": [
    {
     "data": "2026-10-31",
     "custo_total": 1400
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/",
+  "titulo": "2 quartos (1 suíte), varanda, Cond. com elevador, Olavo Lacerda Montenegro, 6675 (cód. LA-11092)",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1300,
+  "condominio": 395,
+  "iptu": 0,
+  "area": null,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Aliança Imobiliária",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "varanda": 1,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "flags": [
+   "andar a confirmar",
+   "área a confirmar",
+   "banheiros a confirmar (1 + WC social)",
+   "IPTU incluso no aluguel (a confirmar)"
+  ],
+  "custo_total": 1695,
+  "nota": 47,
+  "primeiro_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-01",
+  "historico_precos": [
+   {
+    "data": "2026-11-01",
+    "custo_total": 1695
    }
   ]
  }
