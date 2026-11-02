@@ -34,13 +34,14 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 2299
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/",
@@ -77,13 +78,14 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1700
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
@@ -122,7 +124,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -132,56 +134,8 @@
     "data": "2026-11-01",
     "custo_total": 1865
    }
-  ]
- },
- "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/": {
-  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
-  "titulo": "3 quartos (1 suíte), 95 m², atrás do Carrefour",
-  "bairro": "Candelária",
-  "aluguel": 1400,
-  "condominio": 400,
-  "iptu": 100,
-  "area": 95,
-  "quartos": 3,
-  "banheiros": 3,
-  "vagas": 1,
-  "andar": null,
-  "imobiliaria": "Expansão Imóveis",
-  "varanda": 0,
-  "p24": 0,
-  "vent": 0,
-  "mob": 0,
-  "atual": "2026-10-23",
-  "conf": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (IPTU estimado)"
   ],
-  "iptu_est": 1,
-  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1500/id-48040759/",
-  "custo_total": 1900,
-  "ppm2": 20.94736842105263,
-  "nota": 26,
-  "flags": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (IPTU estimado)"
-  ],
-  "creci": null,
-  "telefone": null,
-  "whatsapp": null,
-  "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
-  "historico_precos": [
-   {
-    "data": "2026-10-28",
-    "custo_total": 1990
-   },
-   {
-    "data": "2026-10-30",
-    "custo_total": 1900
-   }
-  ]
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/",
@@ -218,13 +172,14 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1717
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/",
@@ -261,13 +216,14 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1180
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/",
@@ -302,13 +258,14 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-28",
     "custo_total": 1800
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-rn-parnamirim-nova-parnamirim-85m2-RS1400/id-44183103/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-rn-parnamirim-nova-parnamirim-85m2-RS1400/id-44183103/",
@@ -317,7 +274,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -355,7 +312,8 @@
    "elevador a confirmar",
    "vaga a confirmar",
    "custo total a confirmar"
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS1400/id-48129190/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS1400/id-48129190/",
@@ -400,7 +358,8 @@
    "andar a confirmar",
    "elevador a confirmar",
    "custo total a confirmar"
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/",
@@ -443,7 +402,8 @@
     "data": "2026-10-30",
     "custo_total": 2299
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/": {
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
@@ -474,13 +434,14 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-31",
     "custo_total": 1950
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/": {
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/",
@@ -513,13 +474,14 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-10-31",
     "custo_total": 1400
    }
-  ]
+  ],
+  "provavelmente_alugado": false
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/",
@@ -551,12 +513,68 @@
   "custo_total": 1695,
   "nota": 47,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-01",
+  "ultimo_visto": "2026-11-02",
   "historico_precos": [
    {
     "data": "2026-11-01",
     "custo_total": 1695
    }
-  ]
+  ],
+  "provavelmente_alugado": false
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/",
+  "titulo": "3 quartos (1 suíte), 95 m², atrás do Carrefour",
+  "bairro": "Candelária",
+  "aluguel": 1400,
+  "condominio": 400,
+  "iptu": 100,
+  "area": 95,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Expansão Imóveis",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-23",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU estimado)"
+  ],
+  "iptu_est": 1,
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/",
+  "custo_total": 1800,
+  "ppm2": 20.94736842105263,
+  "nota": 28,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU não informado)"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-10-28",
+  "ultimo_visto": "2026-11-02",
+  "historico_precos": [
+   {
+    "data": "2026-10-28",
+    "custo_total": 1990
+   },
+   {
+    "data": "2026-10-30",
+    "custo_total": 1900
+   },
+   {
+    "data": "2026-11-02",
+    "custo_total": 1800
+   }
+  ],
+  "_antigo": 1900,
+  "provavelmente_alugado": false
  }
 }
