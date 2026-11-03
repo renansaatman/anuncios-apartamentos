@@ -78,7 +78,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -124,7 +124,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -172,7 +172,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -216,7 +216,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -434,7 +434,7 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-31",
@@ -474,7 +474,7 @@
    "anunciante a confirmar"
   ],
   "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-31",
@@ -513,7 +513,7 @@
   "custo_total": 1695,
   "nota": 47,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -559,7 +559,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-03",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -575,6 +575,45 @@
    }
   ],
   "_antigo": 1900,
+  "provavelmente_alugado": false
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1300/id-46982612/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1300/id-46982612/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1300/id-46982612/",
+  "titulo": "3 quartos (1 suíte), 67 m², vaga coberta, R. Alice Azevedo, 181 (AP0487)",
+  "bairro": "Capim Macio",
+  "aluguel": 1300,
+  "condominio": 100,
+  "iptu": 138,
+  "area": 67,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Gorett Imobiliária",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "custo_total": 1538,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "CRECI a confirmar",
+   "atualizado em 27/09 (>7 dias)"
+  ],
+  "nota": 11,
+  "primeiro_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-03",
+  "historico_precos": [
+   {
+    "data": "2026-11-03",
+    "custo_total": 1538
+   }
+  ],
   "provavelmente_alugado": false
  }
 }
