@@ -25,7 +25,7 @@
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS838/id-47228691/",
   "custo_total": 2299,
   "ppm2": 30.653333333333332,
-  "nota": 25,
+  "nota": 15,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar"
@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -69,7 +69,7 @@
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-RS1700/id-35951403/",
   "custo_total": 1700,
   "ppm2": 21.25,
-  "nota": 38,
+  "nota": 19,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar"
@@ -78,7 +78,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -113,8 +113,8 @@
   "iptu_est": 1,
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
   "custo_total": 1865,
-  "ppm2": 26.2,
-  "nota": 39,
+  "ppm2": 24.866666666666667,
+  "nota": 34,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -124,7 +124,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -163,7 +163,7 @@
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-58m2-RS1350/id-43004714/",
   "custo_total": 1717,
   "ppm2": 29.603448275862068,
-  "nota": 18,
+  "nota": 16,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar"
@@ -172,7 +172,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -207,7 +207,7 @@
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1100/id-19501199/",
   "custo_total": 1180,
   "ppm2": 18.153846153846153,
-  "nota": 48,
+  "nota": 38,
   "flags": [
    "elevador a confirmar",
    "custo total a confirmar (IPTU estimado; título cita R$ 1.200)"
@@ -250,7 +250,7 @@
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-74m2-RS1800/id-41664360/",
   "custo_total": 1800,
   "ppm2": 24.324324324324323,
-  "nota": 25,
+  "nota": 17,
   "flags": [
    "elevador a confirmar"
   ],
@@ -258,7 +258,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -274,7 +274,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-02",
+  "ultimo_visto": "2026-11-04",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -293,7 +293,7 @@
   "imobiliaria": "TR Imóveis",
   "atual": "2026-10-15",
   "custo_total": 1850,
-  "nota": 34,
+  "nota": 14,
   "conf": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -341,7 +341,7 @@
   "imobiliaria": "Intelecto Assessoria Imobiliária",
   "atual": "2026-10-26",
   "custo_total": 1830,
-  "nota": 19,
+  "nota": 0,
   "conf": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -386,8 +386,8 @@
   ],
   "iptu_est": 0,
   "custo_total": 2299,
-  "ppm2": 30.65,
-  "nota": 12,
+  "ppm2": 30.653333333333332,
+  "nota": 5,
   "flags": [
    "andar a confirmar",
    "custo total a confirmar"
@@ -396,89 +396,11 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-30",
-  "ultimo_visto": "2026-10-31",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-30",
     "custo_total": 2299
-   }
-  ],
-  "provavelmente_alugado": false
- },
- "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/": {
-  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
-  "titulo": "Apartamento 2 dormitórios, Capim Macio",
-  "bairro": "Capim Macio",
-  "aluguel": 1400,
-  "condominio": 450,
-  "iptu": 100,
-  "area": 65,
-  "quartos": 2,
-  "banheiros": 2,
-  "vagas": 1,
-  "andar": null,
-  "imobiliaria": null,
-  "conf": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (cond. e IPTU estimados)",
-   "anunciante a confirmar"
-  ],
-  "nota": 40,
-  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
-  "custo_total": 1950,
-  "flags": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (cond. e IPTU estimados)",
-   "anunciante a confirmar"
-  ],
-  "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-03",
-  "historico_precos": [
-   {
-    "data": "2026-10-31",
-    "custo_total": 1950
-   }
-  ],
-  "provavelmente_alugado": false
- },
- "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/": {
-  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/",
-  "titulo": "Apartamento 2 quartos, Pitimbu",
-  "bairro": "Pitimbu",
-  "aluguel": 900,
-  "condominio": 400,
-  "iptu": 100,
-  "area": 55,
-  "quartos": 2,
-  "banheiros": null,
-  "vagas": 1,
-  "andar": null,
-  "imobiliaria": null,
-  "conf": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "banheiros a confirmar",
-   "custo total a confirmar (IPTU estimado)",
-   "anunciante a confirmar"
-  ],
-  "nota": 33,
-  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-55m2-RS900/id-48157790/",
-  "custo_total": 1400,
-  "flags": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "banheiros a confirmar",
-   "custo total a confirmar (IPTU estimado)",
-   "anunciante a confirmar"
-  ],
-  "primeiro_visto": "2026-10-31",
-  "ultimo_visto": "2026-11-03",
-  "historico_precos": [
-   {
-    "data": "2026-10-31",
-    "custo_total": 1400
    }
   ],
   "provavelmente_alugado": false
@@ -511,16 +433,17 @@
    "IPTU incluso no aluguel (a confirmar)"
   ],
   "custo_total": 1695,
-  "nota": 47,
+  "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-11-01",
     "custo_total": 1695
    }
   ],
-  "provavelmente_alugado": false
+  "provavelmente_alugado": false,
+  "ppm2": 28.25
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/",
@@ -548,8 +471,8 @@
   "iptu_est": 1,
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-candelaria-95m2-RS1400/id-48040759/",
   "custo_total": 1800,
-  "ppm2": 20.94736842105263,
-  "nota": 28,
+  "ppm2": 18.94736842105263,
+  "nota": 15,
   "flags": [
    "andar a confirmar",
    "elevador a confirmar",
@@ -559,7 +482,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -605,15 +528,104 @@
    "CRECI a confirmar",
    "atualizado em 27/09 (>7 dias)"
   ],
-  "nota": 11,
+  "nota": 26,
   "primeiro_visto": "2026-11-03",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-04",
   "historico_precos": [
    {
     "data": "2026-11-03",
     "custo_total": 1538
    }
   ],
+  "provavelmente_alugado": false,
+  "ppm2": 22.955223880597014
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-69m2-RS1600/id-46661741/": {
+  "titulo": "3/4 (anúncio diverge: 2 quartos), Res. Itamaraty, Av. Ayrton Senna, 1823",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1600,
+  "condominio": 390,
+  "iptu": 100,
+  "area": 64,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "3º",
+  "imobiliaria": "RE/MAX Espaço Imóveis",
+  "varanda": 1,
+  "p24": 1,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-09-25",
+  "conf": [
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU diverge no anúncio)",
+   "quartos/banheiros a confirmar"
+  ],
+  "iptu_est": 1,
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-69m2-RS1600/id-46661741/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-69m2-RS1600/id-46661741/",
+  "custo_total": 2090,
+  "ppm2": 32.65625,
+  "flags": [
+   "elevador a confirmar",
+   "custo total a confirmar (IPTU diverge no anúncio)",
+   "quartos/banheiros a confirmar"
+  ],
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-04",
+  "historico_precos": [
+   {
+    "data": "2026-11-04",
+    "custo_total": 2090
+   }
+  ],
+  "nota": 16,
+  "provavelmente_alugado": false
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-78m2-RS2200/id-46873397/": {
+  "titulo": "2 quartos (1 suíte), 65 m², R. Angelin, 55 (aluguel inclui cond. e IPTU)",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 2200,
+  "condominio": 0,
+  "iptu": 0,
+  "area": 65,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "a confirmar",
+  "imobiliaria": "IGAMA Investimentos Imobiliária",
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-09-18",
+  "conf": [
+   "andar a confirmar (elevador: sim)"
+  ],
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-78m2-RS2200/id-46873397/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-78m2-RS2200/id-46873397/",
+  "custo_total": 2200,
+  "ppm2": 33.84615384615385,
+  "flags": [
+   "andar a confirmar (elevador: sim)"
+  ],
+  "iptu_est": 0,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "primeiro_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-04",
+  "historico_precos": [
+   {
+    "data": "2026-11-04",
+    "custo_total": 2200
+   }
+  ],
+  "nota": 3,
   "provavelmente_alugado": false
  }
 }

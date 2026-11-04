@@ -8,12 +8,13 @@
   "parnamirim/nova-parnamirim"
  ],
  "portais_bloqueados_403": [
+  "imovelweb",
   "vivareal",
   "zapimoveis"
  ],
  "portais_sem_resultado": [
   "quintoandar"
  ],
- "ultima_execucao": "2026-11-03",
+ "ultima_execucao": "2026-11-04",
  "imobiliarias_sem_site_util": "buscas por imobiliárias retornaram só portais agregadores (trovit, mitula, casamineira)"
 }
