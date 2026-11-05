@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -124,7 +124,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -172,7 +172,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -274,7 +274,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -396,7 +396,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-30",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-10-30",
@@ -435,7 +435,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -482,7 +482,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -530,7 +530,7 @@
   ],
   "nota": 26,
   "primeiro_visto": "2026-11-03",
-  "ultimo_visto": "2026-11-04",
+  "ultimo_visto": "2026-11-05",
   "historico_precos": [
    {
     "data": "2026-11-03",
@@ -627,5 +627,42 @@
   ],
   "nota": 3,
   "provavelmente_alugado": false
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-70m2-RS1950/id-47781164/": {
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-70m2-RS1950/id-47781164/",
+  "titulo": "3 quartos (2 suítes), 70 m², elevador, R. Virginópolis, 80",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1950,
+  "condominio": 350,
+  "iptu": 0,
+  "area": 70,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "Intelecto Assessoria Imobiliária",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-10-29",
+  "flags": [
+   "andar a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)"
+  ],
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-70m2-RS1950/id-47781164/",
+  "custo_total": 2300,
+  "nota": 5,
+  "primeiro_visto": "2026-11-05",
+  "ultimo_visto": "2026-11-05",
+  "historico_precos": [
+   {
+    "data": "2026-11-05",
+    "custo_total": 2300
+   }
+  ]
  }
 }
