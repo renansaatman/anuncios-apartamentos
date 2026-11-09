@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -169,7 +169,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -268,7 +268,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -388,7 +388,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-30",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-10-30",
@@ -426,7 +426,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -472,7 +472,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -519,7 +519,7 @@
   ],
   "nota": 26,
   "primeiro_visto": "2026-11-03",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-03",
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +643,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-07",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -678,7 +678,7 @@
    "anunciante/CRECI a confirmar"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -714,7 +714,7 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -750,11 +750,154 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-08",
+  "ultimo_visto": "2026-11-09",
   "historico_precos": [
    {
     "data": "2026-11-08",
     "custo_total": 1480
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1900/id-47867974/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1900/id-47867974/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1900/id-47867974/",
+  "titulo": "Apartamento 2 quartos, 55 m², Av. Abel Cabral, 2400",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1900,
+  "condominio": 300,
+  "iptu": 50,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": null,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": "João Paulo Corretor de Imóveis",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 2250,
+  "nota": 7,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "anunciante/CRECI a confirmar",
+   "banheiros a confirmar"
+  ],
+  "primeiro_visto": "2026-11-09",
+  "ultimo_visto": "2026-11-09",
+  "historico_precos": [
+   {
+    "data": "2026-11-09",
+    "custo_total": 2250
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-77m2-RS1900/id-47604676/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-77m2-RS1900/id-47604676/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-77m2-RS1900/id-47604676/",
+  "titulo": "Apartamento 3 quartos, 77 m², Av. Gandhi, 1546",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1900,
+  "condominio": 300,
+  "iptu": 50,
+  "area": 77,
+  "quartos": 3,
+  "banheiros": null,
+  "vagas": null,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 2250,
+  "nota": 7,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "anunciante/CRECI a confirmar",
+   "banheiros a confirmar",
+   "vaga a confirmar"
+  ],
+  "primeiro_visto": "2026-11-09",
+  "ultimo_visto": "2026-11-09",
+  "historico_precos": [
+   {
+    "data": "2026-11-09",
+    "custo_total": 2250
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-60m2-RS1500/id-47614159/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-60m2-RS1500/id-47614159/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-60m2-RS1500/id-47614159/",
+  "titulo": "Apartamento 2 quartos, 60 m², Capim Macio",
+  "bairro": "Capim Macio",
+  "aluguel": 1500,
+  "condominio": 350,
+  "iptu": 80,
+  "area": 60,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": null,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 1930,
+  "nota": 10,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "anunciante/CRECI a confirmar",
+   "vaga a confirmar",
+   "apenas 1 banheiro inferido – conferir"
+  ],
+  "primeiro_visto": "2026-11-09",
+  "ultimo_visto": "2026-11-09",
+  "historico_precos": [
+   {
+    "data": "2026-11-09",
+    "custo_total": 1930
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-55m2-RS1500/id-48294269/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-55m2-RS1500/id-48294269/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-55m2-RS1500/id-48294269/",
+  "titulo": "Apartamento 2 quartos, 55 m², R. Prefeito Expedito Alves, 1450",
+  "bairro": "Capim Macio",
+  "aluguel": 1500,
+  "condominio": 350,
+  "iptu": 80,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": null,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 1930,
+  "nota": 10,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "anunciante/CRECI a confirmar",
+   "vaga a confirmar",
+   "apenas 1 banheiro inferido – conferir"
+  ],
+  "primeiro_visto": "2026-11-09",
+  "ultimo_visto": "2026-11-09",
+  "historico_precos": [
+   {
+    "data": "2026-11-09",
+    "custo_total": 1930
    }
   ]
  }
