@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -169,7 +169,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -426,7 +426,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +643,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -714,7 +714,7 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -750,7 +750,7 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -785,7 +785,7 @@
    "banheiros a confirmar"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-10",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -857,7 +857,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-11",
+  "ultimo_visto": "2026-11-12",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -900,5 +900,41 @@
     "custo_total": 1930
    }
   ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1190/id-48424096/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1190/id-48424096/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1190/id-48424096/",
+  "titulo": "3 quartos (1 suíte), último andar, Cond. Jardins do Sul, R. Adail Pamplona de Menezes, 487",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1190,
+  "condominio": 310,
+  "iptu": 62,
+  "custo_total": 1562,
+  "area": 68,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "último andar do bloco (acesso por escada)",
+  "imobiliaria": "Gorett Imobiliária",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "nota": 45,
+  "portaria24": true,
+  "flags": [
+   "elevador a confirmar (anúncio cita acesso por escada – provavelmente sem elevador)",
+   "CRECI a confirmar",
+   "andar a confirmar (nº)",
+   "portaria 24h"
+  ],
+  "primeiro_visto": "2026-11-12",
+  "ultimo_visto": "2026-11-12",
+  "historico_precos": [
+   {
+    "data": "2026-11-12",
+    "custo_total": 1562
+   }
+  ],
+  "atual": "2026-11-05"
  }
 }
