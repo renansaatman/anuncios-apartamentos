@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -169,7 +169,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -212,7 +212,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-03",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -426,7 +426,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,46 +643,11 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-05",
     "custo_total": 2300
-   }
-  ]
- },
- "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/": {
-  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
-  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
-  "titulo": "Apartamento 2 quartos, 65 m² – Capim Macio",
-  "bairro": "Capim Macio",
-  "aluguel": 1400,
-  "condominio": 400,
-  "iptu": 80,
-  "area": 65,
-  "quartos": 2,
-  "banheiros": null,
-  "vagas": 1,
-  "andar": null,
-  "imobiliaria": null,
-  "creci": null,
-  "telefone": null,
-  "whatsapp": null,
-  "custo_total": 1880,
-  "nota": 11,
-  "flags": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "banheiros a confirmar",
-   "custo total a confirmar (cond./IPTU estimados)",
-   "anunciante/CRECI a confirmar"
-  ],
-  "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-14",
-  "historico_precos": [
-   {
-    "data": "2026-11-08",
-    "custo_total": 1880
    }
   ]
  },
@@ -714,7 +679,7 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -857,7 +822,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -928,7 +893,7 @@
    "portaria 24h"
   ],
   "primeiro_visto": "2026-11-12",
-  "ultimo_visto": "2026-11-14",
+  "ultimo_visto": "2026-11-15",
   "historico_precos": [
    {
     "data": "2026-11-12",
