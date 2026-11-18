@@ -34,7 +34,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -253,7 +253,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -268,7 +268,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -426,7 +426,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +643,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -679,7 +679,7 @@
    "preço suspeito (aluguel muito baixo)"
   ],
   "primeiro_visto": "2026-11-08",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-11-08",
@@ -822,7 +822,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -906,7 +906,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-18",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -992,5 +992,187 @@
     "custo_total": 2100
    }
   ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-capim-macio-RS1400/id-31479086/",
+  "titulo": "2 quartos, 65 m², 2 banheiros, 1 vaga – Rua Prof. Dirce Coutinho",
+  "bairro": "Capim Macio",
+  "aluguel": 1400,
+  "condominio": 430,
+  "iptu": 60,
+  "iptu_est": 1,
+  "area": 65,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 1890,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)"
+  ],
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)"
+  ],
+  "nota": 1,
+  "primeiro_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-18",
+  "historico_precos": [
+   {
+    "data": "2026-11-18",
+    "custo_total": 1890
+   }
+  ],
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1750/id-48831396/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1750/id-48831396/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1750/id-48831396/",
+  "titulo": "2 quartos com garagem – Av. Maria Lacerda Montenegro, 850",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1750,
+  "condominio": 400,
+  "iptu": 60,
+  "iptu_est": 1,
+  "area": null,
+  "quartos": 2,
+  "banheiros": null,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 2210,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar",
+   "área a confirmar"
+  ],
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar",
+   "área a confirmar"
+  ],
+  "nota": 0,
+  "primeiro_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-18",
+  "historico_precos": [
+   {
+    "data": "2026-11-18",
+    "custo_total": 2210
+   }
+  ],
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/",
+  "titulo": "2 quartos, 55 m² – Rua Passagem, 171",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1250,
+  "condominio": 400,
+  "iptu": 50,
+  "iptu_est": 1,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": null,
+  "vagas": 1,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 1700,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar"
+  ],
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar"
+  ],
+  "nota": 0,
+  "primeiro_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-18",
+  "historico_precos": [
+   {
+    "data": "2026-11-18",
+    "custo_total": 1700
+   }
+  ],
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-lagoa-nova-58m2-RS1100/id-48467743/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-lagoa-nova-58m2-RS1100/id-48467743/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-lagoa-nova-58m2-RS1100/id-48467743/",
+  "titulo": "2 quartos, 58 m² – Lagoa Nova (vaga a confirmar)",
+  "bairro": "Lagoa Nova",
+  "aluguel": 1100,
+  "condominio": 600,
+  "iptu": 80,
+  "iptu_est": 1,
+  "area": 58,
+  "quartos": 2,
+  "banheiros": null,
+  "vagas": null,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "custo_total": 1780,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar",
+   "vaga a confirmar"
+  ],
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "banheiros a confirmar",
+   "vaga a confirmar"
+  ],
+  "nota": 0,
+  "primeiro_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-18",
+  "historico_precos": [
+   {
+    "data": "2026-11-18",
+    "custo_total": 1780
+   }
+  ],
+  "varanda": 0,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0
  }
 }
