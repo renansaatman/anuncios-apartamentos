@@ -268,7 +268,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -426,7 +426,7 @@
   "custo_total": 1695,
   "nota": 16,
   "primeiro_visto": "2026-11-01",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-01",
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +643,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -822,7 +822,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -858,7 +858,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-09",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -893,7 +893,7 @@
    "portaria 24h"
   ],
   "primeiro_visto": "2026-11-12",
-  "ultimo_visto": "2026-11-16",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-12",
@@ -906,7 +906,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -952,7 +952,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS2100/id-48620406/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS2100/id-48620406/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-17",
+  "ultimo_visto": "2026-11-19",
   "telefone": null,
   "whatsapp": null,
   "creci": "CRECI-RN 4609 (Henrique Cabral)",
@@ -1024,7 +1024,7 @@
   ],
   "nota": 1,
   "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-18",
@@ -1071,56 +1071,11 @@
   ],
   "nota": 0,
   "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-18",
     "custo_total": 2210
-   }
-  ],
-  "varanda": 0,
-  "p24": 0,
-  "vent": 0,
-  "mob": 0
- },
- "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/": {
-  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/",
-  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-55m2-RS1250/id-48159096/",
-  "titulo": "2 quartos, 55 m² – Rua Passagem, 171",
-  "bairro": "Nova Parnamirim",
-  "aluguel": 1250,
-  "condominio": 400,
-  "iptu": 50,
-  "iptu_est": 1,
-  "area": 55,
-  "quartos": 2,
-  "banheiros": null,
-  "vagas": 1,
-  "andar": null,
-  "imobiliaria": null,
-  "creci": null,
-  "telefone": null,
-  "whatsapp": null,
-  "custo_total": 1700,
-  "flags": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (cond./IPTU estimados)",
-   "banheiros a confirmar"
-  ],
-  "conf": [
-   "andar a confirmar",
-   "elevador a confirmar",
-   "custo total a confirmar (cond./IPTU estimados)",
-   "banheiros a confirmar"
-  ],
-  "nota": 0,
-  "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-18",
-  "historico_precos": [
-   {
-    "data": "2026-11-18",
-    "custo_total": 1700
    }
   ],
   "varanda": 0,
@@ -1163,7 +1118,7 @@
   ],
   "nota": 0,
   "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-19",
   "historico_precos": [
    {
     "data": "2026-11-18",
