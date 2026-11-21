@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-18",
+  "ultimo_visto": "2026-11-21",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -268,7 +268,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-20",
+  "ultimo_visto": "2026-11-21",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -564,7 +564,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-20",
+  "ultimo_visto": "2026-11-21",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +643,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-20",
+  "ultimo_visto": "2026-11-21",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -893,7 +893,7 @@
    "portaria 24h"
   ],
   "primeiro_visto": "2026-11-12",
-  "ultimo_visto": "2026-11-20",
+  "ultimo_visto": "2026-11-21",
   "historico_precos": [
    {
     "data": "2026-11-12",
@@ -906,7 +906,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-20",
+  "ultimo_visto": "2026-11-21",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -1129,5 +1129,54 @@
   "p24": 0,
   "vent": 0,
   "mob": 0
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-80m2-RS1200/id-49069709/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-80m2-RS1200/id-49069709/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-80m2-RS1200/id-49069709/",
+  "titulo": "3 quartos (1 suíte), varanda, 2 vagas, Nova Parnamirim",
+  "bairro": "Nova Parnamirim",
+  "aluguel": 1200,
+  "condominio": 630,
+  "iptu": 60,
+  "area": 80,
+  "quartos": 3,
+  "banheiros": null,
+  "vagas": 2,
+  "andar": null,
+  "imobiliaria": null,
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "varanda": 1,
+  "p24": 0,
+  "vent": 0,
+  "mob": 0,
+  "atual": "2026-11-20",
+  "conf": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "IPTU estimado (custo total a confirmar)",
+   "banheiros a confirmar",
+   "imobiliária/CRECI a confirmar"
+  ],
+  "iptu_est": 1,
+  "custo_total": 1890,
+  "ppm2": 23.625,
+  "nota": 45,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "IPTU estimado (custo total a confirmar)",
+   "banheiros a confirmar",
+   "imobiliária/CRECI a confirmar"
+  ],
+  "primeiro_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-21",
+  "historico_precos": [
+   {
+    "data": "2026-11-21",
+    "custo_total": 1890
+   }
+  ]
  }
 }
