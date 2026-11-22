@@ -110,7 +110,7 @@
   ],
   "iptu_est": 1,
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
-  "custo_total": 1865,
+  "custo_total": 1765,
   "ppm2": 24.866666666666667,
   "nota": 34,
   "flags": [
@@ -122,7 +122,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -131,6 +131,10 @@
    {
     "data": "2026-11-01",
     "custo_total": 1865
+   },
+   {
+    "data": "2026-11-22",
+    "custo_total": 1765
    }
   ]
  },
@@ -268,7 +272,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-29",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "varanda": 1,
   "p24": 0,
   "vent": 0,
@@ -564,7 +568,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-11-04",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-11-04",
@@ -643,7 +647,7 @@
   "custo_total": 2300,
   "nota": 5,
   "primeiro_visto": "2026-11-05",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-11-05",
@@ -822,7 +826,7 @@
    "apenas 1 banheiro inferido – conferir"
   ],
   "primeiro_visto": "2026-11-09",
-  "ultimo_visto": "2026-11-19",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-11-09",
@@ -906,7 +910,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -1024,7 +1028,7 @@
   ],
   "nota": 1,
   "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-19",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-11-18",
@@ -1171,11 +1175,46 @@
    "imobiliária/CRECI a confirmar"
   ],
   "primeiro_visto": "2026-11-21",
-  "ultimo_visto": "2026-11-21",
+  "ultimo_visto": "2026-11-22",
   "historico_precos": [
    {
     "data": "2026-11-21",
     "custo_total": 1890
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1900/id-48834603/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1900/id-48834603/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1900/id-48834603/",
+  "titulo": "2 quartos + dep., Rua Ilce Marinho, 120 (Cond. Mar do Sul III)",
+  "bairro": "Capim Macio",
+  "custo_total": 1900,
+  "aluguel": 1900,
+  "condominio": 0,
+  "iptu": 0,
+  "area": 55,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": 1,
+  "andar": "a confirmar",
+  "imobiliaria": "Henrique Cabral (corretor)",
+  "creci": "CRECI-RN 4609",
+  "telefone": null,
+  "whatsapp": null,
+  "nota": 40,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "banheiros a confirmar (1 informado + dep.)",
+   "taxas inclusas (custo total a confirmar)",
+   "portaria 24h"
+  ],
+  "primeiro_visto": "2026-11-22",
+  "ultimo_visto": "2026-11-22",
+  "historico_precos": [
+   {
+    "data": "2026-11-22",
+    "custo_total": 1900
    }
   ]
  }

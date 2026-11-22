@@ -15,7 +15,8 @@
  "portais_sem_resultado": [
   "quintoandar"
  ],
- "ultima_execucao": "2026-11-21",
+ "ultima_execucao": "2026-11-22",
  "imobiliarias_sem_site_util": "buscas por imobiliárias retornaram só portais agregadores (trovit, mitula, casamineira)",
- "obs_2026-11-21": "Chaves na Mão listagens truncadas; imobiliárias: sem site útil novo"
+ "obs_2026-11-21": "Chaves na Mão listagens truncadas; imobiliárias: sem site útil novo",
+ "obs_2026-11-22": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil"
 }
