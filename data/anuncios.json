@@ -83,7 +83,8 @@
     "data": "2026-10-28",
     "custo_total": 1700
    }
-  ]
+  ],
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-candelaria-75m2-RS1300/id-45411035/",
@@ -173,7 +174,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-24",
+  "ultimo_visto": "2026-11-25",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -355,7 +356,8 @@
    "andar a confirmar",
    "elevador a confirmar",
    "custo total a confirmar"
-  ]
+  ],
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-lagoa-nova-RS836/id-47785321/",
@@ -398,7 +400,8 @@
     "data": "2026-10-30",
     "custo_total": 2299
    }
-  ]
+  ],
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-RS1300/id-48188820/",
@@ -491,7 +494,8 @@
     "custo_total": 1800
    }
   ],
-  "_antigo": 1900
+  "_antigo": 1900,
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1300/id-46982612/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-natal-capim-macio-RS1300/id-46982612/",
@@ -530,7 +534,8 @@
     "custo_total": 1538
    }
   ],
-  "ppm2": 22.955223880597014
+  "ppm2": 22.955223880597014,
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-69m2-RS1600/id-46661741/": {
   "titulo": "3/4 (anúncio diverge: 2 quartos), Res. Itamaraty, Av. Ayrton Senna, 1823",
@@ -616,7 +621,8 @@
     "custo_total": 2200
    }
   ],
-  "nota": 3
+  "nota": 3,
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-70m2-RS1950/id-47781164/": {
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-3-quartos-com-garagem-rn-parnamirim-nova-parnamirim-70m2-RS1950/id-47781164/",
@@ -796,7 +802,8 @@
     "data": "2026-11-09",
     "custo_total": 2250
    }
-  ]
+  ],
+  "provavelmente_alugado": true
  },
  "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-60m2-RS1500/id-47614159/": {
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-rn-natal-capim-macio-60m2-RS1500/id-47614159/",
@@ -910,7 +917,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-24",
+  "ultimo_visto": "2026-11-25",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -1028,7 +1035,7 @@
   ],
   "nota": 1,
   "primeiro_visto": "2026-11-18",
-  "ultimo_visto": "2026-11-24",
+  "ultimo_visto": "2026-11-25",
   "historico_precos": [
    {
     "data": "2026-11-18",
@@ -1210,7 +1217,7 @@
    "portaria 24h"
   ],
   "primeiro_visto": "2026-11-22",
-  "ultimo_visto": "2026-11-24",
+  "ultimo_visto": "2026-11-25",
   "historico_precos": [
    {
     "data": "2026-11-22",
