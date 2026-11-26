@@ -174,7 +174,7 @@
   "telefone": null,
   "whatsapp": null,
   "primeiro_visto": "2026-10-28",
-  "ultimo_visto": "2026-11-25",
+  "ultimo_visto": "2026-11-26",
   "historico_precos": [
    {
     "data": "2026-10-28",
@@ -917,7 +917,7 @@
   "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-natal-pitimbu-RS1740/id-48897343/",
   "primeiro_visto": "2026-11-17",
-  "ultimo_visto": "2026-11-25",
+  "ultimo_visto": "2026-11-26",
   "telefone": null,
   "whatsapp": null,
   "creci": null,
@@ -1217,11 +1217,46 @@
    "portaria 24h"
   ],
   "primeiro_visto": "2026-11-22",
-  "ultimo_visto": "2026-11-25",
+  "ultimo_visto": "2026-11-26",
   "historico_precos": [
    {
     "data": "2026-11-22",
     "custo_total": 1900
+   }
+  ]
+ },
+ "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-60m2-RS1300/id-49147237/": {
+  "id": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-60m2-RS1300/id-49147237/",
+  "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-rn-parnamirim-nova-parnamirim-60m2-RS1300/id-49147237/",
+  "titulo": "2 quartos (1 suíte), varanda, perto do Campos do Cerrado",
+  "bairro": "Nova Parnamirim",
+  "custo_total": 1730,
+  "aluguel": 1300,
+  "condominio": 350,
+  "iptu": 80,
+  "area": 60,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "andar": "a confirmar",
+  "imobiliaria": "Expansão Imóveis",
+  "creci": null,
+  "telefone": null,
+  "whatsapp": null,
+  "varanda": 1,
+  "nota": 55,
+  "flags": [
+   "andar a confirmar",
+   "elevador a confirmar",
+   "custo total a confirmar (cond./IPTU estimados)",
+   "CRECI a confirmar"
+  ],
+  "primeiro_visto": "2026-11-26",
+  "ultimo_visto": "2026-11-26",
+  "historico_precos": [
+   {
+    "data": "2026-11-26",
+    "custo_total": 1730
    }
   ]
  }
