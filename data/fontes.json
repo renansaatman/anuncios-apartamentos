@@ -15,7 +15,7 @@
  "portais_sem_resultado": [
   "quintoandar"
  ],
- "ultima_execucao": "2026-11-27",
+ "ultima_execucao": "2026-11-28",
  "imobiliarias_sem_site_util": "buscas por imobiliárias retornaram só portais agregadores (trovit, mitula, casamineira)",
  "obs_2026-11-21": "Chaves na Mão listagens truncadas; imobiliárias: sem site útil novo",
  "obs_2026-11-22": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil",
@@ -23,5 +23,6 @@
  "obs_2026-11-24": "Chaves na Mão truncado (9-13 de 21-40 por bairro); WebSearch só portais (ZAP 403); sem site de imobiliária útil",
  "obs_2026-11-25": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil",
  "obs_2026-11-26": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil",
- "obs_2026-11-27": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil"
+ "obs_2026-11-27": "Chaves na Mão truncado; WebSearch só portais; sem site de imobiliária útil",
+ "obs_2026-11-28": "Chaves na Mão truncado; sem novos aprovados; sem site de imobiliária útil"
 }
